@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using CarAgancyLogin.Controllers;
-using CarAgancyLogin.Helpers; 
+using CarAgancyLogin.Helpers; // For password hashing
 
 namespace CarAgancyLogin.Views
 {
@@ -12,13 +12,14 @@ namespace CarAgancyLogin.Views
             InitializeComponent();
         }
 
+
         private void btnLogin_Click_Click(object sender, EventArgs e)
         {
-           
+            // Hash the entered password
             string enteredPassword = txtPassword.Text;
             string hashedPassword = PasswordHasher.HashPassword(enteredPassword);
 
-            
+            // Call controller with hashed password
             UserController controller = new UserController();
             bool success = controller.Login(txtUsername.Text, hashedPassword, txtcombobox.Text);
 
@@ -34,7 +35,7 @@ namespace CarAgancyLogin.Views
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
-            
+            // Optional: Initialize anything if needed
         }
 
         private void btnForgotPassword_Click(object sender, EventArgs e)
@@ -43,5 +44,8 @@ namespace CarAgancyLogin.Views
             ForgotPasswordForm forgot = new ForgotPasswordForm();
             forgot.Show();
         }
+
+
+
     }
 }

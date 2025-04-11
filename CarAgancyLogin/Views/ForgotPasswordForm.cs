@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using CarAgancyLogin.Controllers;
-using CarAgancyLogin.Helpers; 
+using CarAgancyLogin.Helpers; // For PasswordHasher
 
 namespace CarAgancyLogin.Views
 {

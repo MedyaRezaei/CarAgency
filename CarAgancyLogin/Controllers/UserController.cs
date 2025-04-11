@@ -15,7 +15,7 @@ namespace CarAgancyLogin.Controllers
                 string query = "INSERT INTO Users (Username, Password,Phonenumber, Role, Address, Email) VALUES (@Username, @Password,@Phonenumber, @Role, @Address, @Email)";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 cmd.Parameters.AddWithValue("@Username", user.Username);
-                cmd.Parameters.AddWithValue("@Password", user.Password); 
+                cmd.Parameters.AddWithValue("@Password", user.Password); // You should hash this!
                 cmd.Parameters.AddWithValue("@Phonenumber", user.Phonenumber);
                 cmd.Parameters.AddWithValue("@Role", user.Role);
                 cmd.Parameters.AddWithValue("@Address", user.Address);
@@ -30,17 +30,19 @@ namespace CarAgancyLogin.Controllers
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
-                string query = "SELECT COUNT(*) FROM Users WHERE Username = @Username AND Password = @Password";
+                string query = "SELECT COUNT(*) FROM Users WHERE Username = @Username AND Password = @Password AND Role = @Role";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 cmd.Parameters.AddWithValue("@Username", username);
-                cmd.Parameters.AddWithValue("@Password", password); 
-                cmd.Parameters.AddWithValue("@Role",role);
+                cmd.Parameters.AddWithValue("@Password", password);
+                cmd.Parameters.AddWithValue("@Role", role);
 
                 conn.Open();
                 int count = (int)cmd.ExecuteScalar();
                 return count > 0;
             }
         }
+
+
         public bool ChangePassword(string username, string newHashedPassword)
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
@@ -56,5 +58,18 @@ namespace CarAgancyLogin.Controllers
             }
         }
 
+        public bool IsUsernameTaken(string username)
+        {
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                string query = "SELECT COUNT(*) FROM Users WHERE Username = @Username";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("@Username", username);
+
+                conn.Open();
+                int count = (int)cmd.ExecuteScalar();
+                return count > 0;
+            }
+        }
     }
 }
