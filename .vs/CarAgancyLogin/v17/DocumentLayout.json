@@ -1,5 +1,24 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\CarAgancy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\CarAgancy\\caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\caragancy\\caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\caragancy\\caragancylogin\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\caragancy\\caragancylogin\\views\\forgotpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\forgotpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
   "WorkspaceRootPath": "C:\\Users\\asadi\\Desktop\\CarAgancyLogin\\",
   "Documents": [
     {
@@ -53,6 +72,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asadi\\Desktop\\CarAgancyLogin\\CarAgancyLogin\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarAgancyLogin\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 9768902e90b9a3cc6ea9a5734a4264f6ad9029bc
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 4,
+=======
           "SelectedChildIndex": 5,
+>>>>>>> 9768902e90b9a3cc6ea9a5734a4264f6ad9029bc
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,6 +95,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\CarAgancy\\CarAgancyLogin\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\LoginForm.cs",
+              "ToolTip": "D:\\CarAgancy\\CarAgancyLogin\\Views\\LoginForm.cs*",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\LoginForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:08:53.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotPasswordForm.Designer.cs",
+              "DocumentMoniker": "D:\\CarAgancy\\CarAgancyLogin\\Views\\ForgotPasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\ForgotPasswordForm.Designer.cs",
+              "ToolTip": "D:\\CarAgancy\\CarAgancyLogin\\Views\\ForgotPasswordForm.Designer.cs*",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\ForgotPasswordForm.Designer.cs*",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJ4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:06:48.456Z",
+              "EditorCaption": ""
+=======
               "Title": "LoginForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\asadi\\Desktop\\CarAgancyLogin\\CarAgancyLogin\\Views\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\LoginForm.Designer.cs",
@@ -91,10 +139,21 @@
               "ViewState": "AgIAADQAAAAAAAAAAAAcwD8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T23:23:13.181Z"
+>>>>>>> 9768902e90b9a3cc6ea9a5734a4264f6ad9029bc
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\CarAgancy\\CarAgancyLogin\\Views\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\RegisterForm.cs",
+              "ToolTip": "D:\\CarAgancy\\CarAgancyLogin\\Views\\RegisterForm.cs*",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\RegisterForm.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:29:30.762Z",
+=======
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\asadi\\Desktop\\CarAgancyLogin\\CarAgancyLogin\\Views\\LoginForm.cs",
               "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\LoginForm.cs",
@@ -116,11 +175,22 @@
               "ViewState": "AgIAAIQAAAAAAAAAAAAcwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T21:43:21.707Z",
+>>>>>>> 9768902e90b9a3cc6ea9a5734a4264f6ad9029bc
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\CarAgancy\\CarAgancyLogin\\Views\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\RegisterForm.cs",
+              "ToolTip": "D:\\CarAgancy\\CarAgancyLogin\\Views\\RegisterForm.cs [Design]*",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\RegisterForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:29:23.537Z",
+              "EditorCaption": " [Design]"
+=======
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\asadi\\Desktop\\CarAgancyLogin\\CarAgancyLogin\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CarAgancyLogin\\Controllers\\UserController.cs",
@@ -222,6 +292,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T15:58:07.124Z"
+>>>>>>> 9768902e90b9a3cc6ea9a5734a4264f6ad9029bc
             }
           ]
         }
