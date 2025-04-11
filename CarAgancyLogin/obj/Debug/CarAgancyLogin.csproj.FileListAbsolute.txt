@@ -13,3 +13,17 @@ D:\CarAgancyLogin\CarAgancyLogin\obj\Debug\CarAganc.1BD804CE.Up2Date
 D:\CarAgancyLogin\CarAgancyLogin\obj\Debug\CarAgancyLogin.exe
 D:\CarAgancyLogin\CarAgancyLogin\obj\Debug\CarAgancyLogin.pdb
 D:\CarAgancyLogin\CarAgancyLogin\bin\Debug\CarAgancyLogin.pdb
+D:\CarAgancy\CarAgancyLogin\bin\Debug\CarAgancyLogin.exe
+D:\CarAgancy\CarAgancyLogin\bin\Debug\CarAgancyLogin.exe.config
+D:\CarAgancy\CarAgancyLogin\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\CarAgancy\CarAgancyLogin\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.csproj.AssemblyReference.cache
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.Properties.Resources.resources
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.Views.ForgotPasswordForm.resources
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.Views.LoginForm.resources
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.Views.RegisterForm.resources
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.csproj.GenerateResource.cache
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.csproj.CoreCompileInputs.cache
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAganc.1BD804CE.Up2Date
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.exe
+D:\CarAgancy\CarAgancyLogin\obj\Debug\CarAgancyLogin.pdb

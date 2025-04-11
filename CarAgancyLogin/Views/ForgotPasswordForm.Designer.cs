@@ -76,6 +76,7 @@
             this.btnBackToLogin.TabIndex = 4;
             this.btnBackToLogin.Text = "button1";
             this.btnBackToLogin.UseVisualStyleBackColor = true;
+            this.btnBackToLogin.Click += new System.EventHandler(this.btnBackToLogin_Click_1);
             // 
             // ForgotPasswordForm
             // 

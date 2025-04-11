@@ -44,5 +44,12 @@ namespace CarAgancyLogin.Views
             LoginForm login = new LoginForm();
             login.Show();
         }
+
+        private void btnBackToLogin_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            LoginForm login = new LoginForm();
+            login.Show();
+        }
     }
 }
