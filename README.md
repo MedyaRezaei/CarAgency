@@ -1,5 +1,5 @@
-HEAD
-#Agency Login System
+
+# Car Agency Login System
 
 This is a C#, Windows Forms desktop application for user registration and login using SQL Server for a real car agency project.
 
@@ -186,5 +186,4 @@ CREATE TABLE Users (
 
 - Enter new password
 
->>>>>>> 9768902e90b9a3cc6ea9a5734a4264f6ad9029bc
 - Repeat password
