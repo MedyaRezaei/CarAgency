@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarAgancyLogin",
+    "\\CarAgancyLogin\\CarAgancyLogin",
+    "\\CarAgancyLogin\\CarAgancyLogin\\Controllers",
+    "\\CarAgancyLogin\\CarAgancyLogin\\Models",
+    "\\CarAgancyLogin\\CarAgancyLogin\\Views"
+  ],
+  "SelectedNode": "\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterForm.cs",
+  "PreviewInSolutionExplorer": false
+}
