@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 #Agency Login System
 
 This is a C#, Windows Forms desktop application for user registration and login using SQL Server for a real car agency project.
