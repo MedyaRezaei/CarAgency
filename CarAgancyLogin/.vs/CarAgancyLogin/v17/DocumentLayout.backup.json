@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\operator\\sima\\CarAgancyLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\operator\\sima\\caragancylogin\\caragancylogin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\operator\\sima\\caragancylogin\\caragancylogin\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\operator\\sima\\caragancylogin\\caragancylogin\\views\\registervehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\registervehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\operator\\sima\\caragancylogin\\caragancylogin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|d:\\operator\\sima\\caragancylogin\\caragancylogin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\views\\registervehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\registervehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\servicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\servicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\servicehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\servicehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\servicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\servicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|D:\\operator\\sima\\CarAgancyLogin\\caragancylogin\\endtripusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96048D10-65F3-414E-95A0-E88B4BCF02BC}|CarAgancyLogin\\CarAgancyLogin.csproj|solutionrelative:caragancylogin\\endtripusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "CarAgancyLogin\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:15:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\LoginForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\LoginForm.cs*",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\LoginForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:14:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\MainForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\MainForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\MainForm.cs",
+              "RelativeToolTip": "CarAgancyLogin\\MainForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:57:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVehicles.cs",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterVehicles.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\RegisterVehicles.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterVehicles.cs",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\RegisterVehicles.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:46:41.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\MainForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\MainForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\MainForm.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:05:19.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\RegisterForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterForm.cs",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\RegisterForm.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:00:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\RegisterForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:36:51.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\LoginForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:36:46.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceReport.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ServiceReport.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\ServiceReport.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ServiceReport.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\ServiceReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:59:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceHistory.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ServiceHistory.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\ServiceHistory.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ServiceHistory.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\ServiceHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:55:20.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverForm.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\DriverForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\DriverForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\DriverForm.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\DriverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:53:52.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceReport.cs",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ServiceReport.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\ServiceReport.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ServiceReport.cs",
+              "RelativeToolTip": "CarAgancyLogin\\ServiceReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:02:07.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVehicles.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterVehicles.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\Views\\RegisterVehicles.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\RegisterVehicles.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\Views\\RegisterVehicles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:51:17.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\ProfileForm.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:09:04.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EndTripUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\EndTripUserControl.cs",
+              "RelativeDocumentMoniker": "CarAgancyLogin\\EndTripUserControl.cs",
+              "ToolTip": "D:\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\EndTripUserControl.cs [Design]",
+              "RelativeToolTip": "CarAgancyLogin\\EndTripUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:01:50.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
