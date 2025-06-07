@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\operator",
+    "\\operator\\sima",
+    "\\operator\\sima\\CarAgancyLogin",
+    "\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin",
+    "\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views"
+  ],
+  "SelectedNode": "\\operator\\sima\\CarAgancyLogin\\CarAgancyLogin\\Views\\ForgotPasswordForm.cs",
+  "PreviewInSolutionExplorer": false
+}
